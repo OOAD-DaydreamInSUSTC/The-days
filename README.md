@@ -6,3 +6,4 @@
 
 > 10.12 create the repository
 > 11.10 start working
+> 11.24 basic logical structure complete
