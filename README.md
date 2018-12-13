@@ -8,3 +8,8 @@
 > 11.10 start working
 > 11.24 basic logical structure complete
 > 12.1 start using the playcanvas as our workbench
+---
+### work
+#### Ding ao
+- finishi the design of the material 
+- finishi the design and code for the start page
