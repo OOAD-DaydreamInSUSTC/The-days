@@ -21,7 +21,9 @@
 #### Ding ao
 - finish the design of the material 
 - finish the design and code for the start page
-
+- 12.16 finish the UI and basic code for create roles.
+- 12.17 finish transformation from start page to create roles to route map.
+#toDO: cameraControl script
 #### Elizabitch
 - character & building design 
 
