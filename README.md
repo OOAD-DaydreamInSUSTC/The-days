@@ -23,7 +23,8 @@
 - finish the design and code for the start page
 - 12.16 finish the UI and basic code for create roles.
 - 12.17 finish transformation from start page to create roles to route map.
-- **todo**: cameraControl script
+- 12.19 finish cameraControl
+- 12.20 finish disign, animation and code for slot machine(to generate ramdom step number); 
 #### Elizabitch
 - character & building design 
 
