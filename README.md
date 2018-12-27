@@ -39,3 +39,9 @@
 - card events design and trigger
 - test and debug
 
+#### Kai
+- character & route design
+- client/map's information
+- character's movement
+- card events design and coding
+- test and debug
