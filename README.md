@@ -18,7 +18,7 @@
 ---
 
 ### work
-#### Ding ao
+#### Ding Ao
 - finish the design of the material 
 - finish the design and code for the start page
 - 12.16 finish the UI and basic code for create roles.
@@ -31,3 +31,11 @@
 - buildings' and players' events card UI design
 - card events trigger / effect co-operative coder
 - test and debug
+
+#### Shiyi Li
+- initialize basic objects (roads and players)
+- main interface and end interface design
+- use of jQuery
+- card events design and trigger
+- test and debug
+
