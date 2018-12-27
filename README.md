@@ -25,8 +25,9 @@
 - 12.17 finish transformation from start page to create roles to route map.
 - 12.19 finish cameraControl
 - 12.20 finish disign, animation and code for slot machine(to generate ramdom step number); 
+
 #### Elizabitch
-- character & building design 
-
-<b>#TODO : route design 
-
+- character & building & route design 
+- buildings' and players' events card UI design
+- card events trigger / effect co-operative coder
+- test and debug
