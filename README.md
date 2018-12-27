@@ -45,3 +45,10 @@
 - character's movement
 - card events design and coding
 - test and debug
+
+#### Mingjia Li
+- design the content of this game
+- initialize basic objects (buildings and cards)
+- find resources of pictures we use
+- design cards and buildings events
+- test and debug
